@@ -3,8 +3,9 @@ body {overflow:hidden;}
 
 
 .drop {
-    background: url("http://i.imgur.com/f1qMR7M.png");
-    width:217px;
+    background: url("http://i.imgur.com/T4SiSLE.png");
+    background-size: cover;
+    width:520px;
     height:52px;
     position: absolute;
     bottom:200px;
